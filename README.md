@@ -2,7 +2,7 @@
 
 
 
-### [单轴舵机外观CAD尺寸/3D数据](https://github.com/servodevelop/servo-dimension/tree/main/%E6%A0%87%E5%87%86%E5%B0%BA%E5%AF%B8%E5%8D%95%E5%8F%8C%E8%BD%B4%E8%88%B5%E6%9C%BA%E5%A4%96%E8%A7%82%E5%B0%BA%E5%AF%B8%E6%95%B0%E6%8D%AE/%E6%A0%87%E5%87%86%E5%B0%BA%E5%AF%B8%E5%8D%95%E5%8F%8C%E8%BD%B4%E8%88%B5%E6%9C%BA-%E5%A4%96%E8%A7%82%E5%B0%BA%E5%AF%B8%E5%9B%BE)
+### [单轴舵机外观CAD尺寸-3D数据](https://github.com/servodevelop/servo-dimension/tree/main/%E5%8D%95%E8%BD%B4%E8%88%B5%E6%9C%BA%E5%A4%96%E8%A7%82CAD%E5%B0%BA%E5%AF%B8-3D%E6%95%B0%E6%8D%AE)
 
 - 单轴舵机外观CAD尺寸图.dwg
 - 单轴舵机外观CAD尺寸图.pdf
@@ -10,7 +10,7 @@
 
 
 
-### [双轴舵机外观CAD尺寸/3D数据](https://github.com/servodevelop/servo-dimension/tree/main/%E6%A0%87%E5%87%86%E5%B0%BA%E5%AF%B8%E5%8D%95%E5%8F%8C%E8%BD%B4%E8%88%B5%E6%9C%BA%E5%A4%96%E8%A7%82%E5%B0%BA%E5%AF%B8%E6%95%B0%E6%8D%AE/%E6%A0%87%E5%87%86%E5%B0%BA%E5%AF%B8%E5%8D%95%E5%8F%8C%E8%BD%B4%E8%88%B5%E6%9C%BA-%E5%A4%96%E8%A7%823D%E6%95%B0%E6%8D%AE)
+### [双轴舵机外观CAD尺寸-3D数据](https://github.com/servodevelop/servo-dimension/tree/main/%E5%8F%8C%E8%BD%B4%E8%88%B5%E6%9C%BA%E5%A4%96%E8%A7%82CAD%E5%B0%BA%E5%AF%B8-3D%E6%95%B0%E6%8D%AE)
 
 - 双轴舵机外观CAD尺寸图.dwg
 
