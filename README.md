@@ -16,7 +16,7 @@
 
 - 双轴舵机外观CAD尺寸图.pdf
 
-- Dual-shaft-Servo-3D
+- Dual-shaft-Servo-3D.stp
 
   
 
